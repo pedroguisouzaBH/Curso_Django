@@ -8,6 +8,8 @@ django = "*"
 pytest-django = "*"
 
 [dev-packages]
+pytest-cov = "*"
+codecov = "*"
 
 [requires]
 python_version = "3.14"
