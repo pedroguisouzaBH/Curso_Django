@@ -1,9 +1,7 @@
-venv/
 __pycache__/
 *.pyc
+venv/
+*.sqlite3
+staticfiles/
+.env
 
-db.sqlite3
-media/
-
-.vscode/
-.coverage
