@@ -29,7 +29,8 @@ DEBUG = config("DEBUG", cast=bool)
 
 
 ALLOWED_HOSTS = [
-    'pedroguisouzabh.pythonanywhere.com',
+    'www.pedroguisouzabh.pythonanywhere.com',
+    'c1533f424dca94e479c240489fa9202b582ad6f',
     '127.0.0.1',
     'localhost',
 ]
